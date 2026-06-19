@@ -44,9 +44,6 @@ HR Leave Management Agent
    └── Vacation Request
              │
              ▼
-      Adaptive Card
-             │
-             ▼
       Collect Leave Details
              │
              ▼
