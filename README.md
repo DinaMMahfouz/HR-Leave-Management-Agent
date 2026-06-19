@@ -62,9 +62,7 @@ HR Leave Management Agent
 * Microsoft Power Automate
 * GitHub
 
-## Solution Components
-
-### Copilot Studio Topics
+## Copilot Studio Topics
 
 * Greeting
 * Conversation Start
@@ -77,7 +75,7 @@ HR Leave Management Agent
 * Goodbye
 * Reset Conversation
 
-### Power Automate
+## Power Automate
 
 * Vacation Request Processing Workflow
 * Automated Notifications
@@ -92,7 +90,6 @@ HR Leave Management Agent
 ├── solution.xml
 ├── customizations.xml
 └── [Content_Types].xml
-```
 
 ## Installation
 
