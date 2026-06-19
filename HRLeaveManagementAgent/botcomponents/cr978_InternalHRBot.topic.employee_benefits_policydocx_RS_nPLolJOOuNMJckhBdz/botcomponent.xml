@@ -1,0 +1,11 @@
+<botcomponent schemaname="cr978_InternalHRBot.topic.employee_benefits_policydocx_RS_nPLolJOOuNMJckhBdz">
+  <componenttype>16</componenttype>
+  <description>This knowledge source provides information found in employee_benefits_policy.docx.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>employee_benefits_policy.docx</name>
+  <parentbotid>
+    <schemaname>cr978_InternalHRBot</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

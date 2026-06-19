@@ -1,0 +1,11 @@
+<botcomponent schemaname="cr978_InternalHRBot.topic.vacation_policydocx_UiL_l2jOF7cJnS3dgwkWj">
+  <componenttype>16</componenttype>
+  <description>This knowledge source provides information found in vacation_policy.docx.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>vacation_policy.docx</name>
+  <parentbotid>
+    <schemaname>cr978_InternalHRBot</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>
