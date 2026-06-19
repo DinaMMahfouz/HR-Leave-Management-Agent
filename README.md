@@ -27,7 +27,7 @@ Using Microsoft Copilot Studio, and Power Automate, the solution allows employee
 ## Workflow
 
 <p align="center">
-  <img src="images/Workflow_HR Leave.png" alt="HR Leave Management Workflow" width="900"/>
+  <img src="Workflow_HR Leave.png" alt="HR Leave Management Workflow" width="900"/>
 </p>
 
 ```text
